@@ -4,7 +4,8 @@ let quotesData;
 
 /*
   Code by Gabriel Nunes
-  Modified by Todd Chaffee to use Camper gist for JSON Quote data. Modified once again by Nicola Reyes.
+  Modified by Todd Chaffee to use Camper gist for JSON Quote data.
+  Modified once again by Nicola Reyes.
 */
 
 function inIframe () { try { return window.self !== window.top; } catch (e) { return true; } }
